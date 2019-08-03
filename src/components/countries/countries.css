@@ -1,0 +1,7 @@
+
+.filterRow.alert{padding:4px 1rem; border-radius:0 }
+.countryList .imgCountry{margin-bottom:1rem;padding:0; max-height: 120px}
+.countryList .card{margin-bottom:2rem; border-radius: 0}
+.countryList .card .desc p{margin-bottom:2px;}
+.filterRow label{color:#dc3545}
+.filterRow .searchBox{border-radius: 0; border:1px solid #dc3545}

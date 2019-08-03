@@ -1,0 +1,6 @@
+
+ select {border:1px solid #ccc; padding: 1rem}
+ select option{ background:#eee; border:10px solid #ccc; padding: 1rem 0}
+.dashBoradContainer.alert{ padding:3rem 0 5rem;}
+.dashBoradContainer .radio{cursor: pointer}
+.dashBoradContainer label{cursor: pointer;}

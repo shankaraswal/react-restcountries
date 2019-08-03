@@ -1,0 +1,12 @@
+
+.filterRow.alert{padding:4px 1rem; border-radius:0 }
+.filterRow label{color:inherit}
+.filterRow .searchBox,
+.filterRow .sortDD{border-radius: 0; border:0 solid #dc3545; padding:10px}
+
+.allCountryList .imgCountry{padding:0; background: #eee;max-width: 100%}
+.allCountryList .card{margin-bottom:2rem; border-radius: 0; border:1px solid #d1ecf1}
+.allCountryList .card .desc p{font-size:15px;margin-bottom:2px;}
+.allCountryList .card .card-body{min-height: 125px}
+.allCountryList .card .card-footer{ padding:5px 1rem;}
+
